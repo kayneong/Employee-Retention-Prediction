@@ -24,5 +24,5 @@ last evaluation score, number of projects contributed, tenure and whether the em
 
 
 # Conclusion
-The champion random forest model was subsequently trained with the entire dataset (training, validation and test sets together) to prepare for future possible deployment. The EDA conducted, models and feature importances provided assurance that employees were overworked. 
+The champion random forest model was subsequently trained with the entire dataset (training, validation and test sets together) to prepare for future possible deployment. The EDA conducted, models and feature importances affirmed that employees were indeed overworked. 
 Recommendations such as capping the number of projects employees can work on, addressing work culture, workload and time off expectations were suggested to stakeholders to improve employee retention rates. 
